@@ -1,7 +1,7 @@
 package helloworld;
 
-public class wpc {
+public class master {
     public static void main(String[] args) {
-        System.out.println("wpc分支");
+        System.out.println("master分支");
     }
 }
